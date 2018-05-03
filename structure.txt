@@ -1,0 +1,30 @@
+n=150 
+feat = dimensions
+
+alpha=50 -- > 
+for i in alhpa :
+	maxk=rand(0,1)*n  # no of centroid 
+	for j in maxk:
+		for ff in feat:
+			max aur min ke beeh 
+
+
+ek solution kya hai ? 
+	- kuchh centroid chand centroids .. 
+	- solution is actually a set of centroid.. 
+	- ek set of centroid is one solution jjust one olution
+
+for i in range(0,alpha):
+	sol[i].reshape(rand(0,1)*n)
+	sol[i]= [ [1,2],[3,4],[1,3] ]
+
+def fitness(sol,points):
+	
+	for j in range(len(sol)):
+		for i in range(len(points)):
+			for k in range(len(sol[j])):
+
+		''' mse ,Rand, Adjusted Rand, Siloutte, Chou Be, Davies–Bouldin and
+		Xie–Beni indexs'''
+		W = 
+

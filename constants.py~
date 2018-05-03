@@ -1,0 +1,10 @@
+URL = './dataset/iris.data.txt'
+# cURL = './dataset/ionosphere.class.txt'
+# URL = './data.txt'
+K = 3
+
+POP_COUNT = 50
+DEBUG = True
+ITERATIONS =10
+# 100 is preferable
+funcs = 7
